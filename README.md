@@ -5,3 +5,6 @@ Team Members:
 - Ricky Villanueva [@Psyric](https://github.com/Psyric)
 - Youcheng Taing [@Youcheng9](https://github.com/Youcheng9)
 - Freeman Yiu [@Coolguy4123](https://github.com/Coolguy4123)
+
+## Dataset
+[Vehicle Dataset](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data)
